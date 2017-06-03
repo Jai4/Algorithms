@@ -55,4 +55,3 @@ int main()
     g.getinput();
     return 0;
 }
-Language: C++

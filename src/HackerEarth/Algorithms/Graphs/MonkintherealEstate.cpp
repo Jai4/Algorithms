@@ -36,4 +36,3 @@ int main()
     g.getinp();
     return 0;
 }
-Language: C++
